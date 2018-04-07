@@ -1,0 +1,6 @@
+scrapy
+django==1.11
+pymysql
+django-debug-toolbar
+requests
+celery
